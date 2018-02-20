@@ -1,5 +1,8 @@
 ## Cabbit Sprite Bases Collection
 
+![Static Preview](preview.png)
+![Animated Preview](preview.gif)
+
 ### Description:
 
 A collection of game sprite bases by, or based on work by, [Svetlana Kushnariova (Cabbit)](https://opengameart.org/user/15048).
