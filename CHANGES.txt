@@ -1,3 +1,7 @@
+Next
+- Renamed bases, bodies, & heads to numerical standard.
+- Moved 48x64 parts to main parts parent directory.
+
 0.3
 - Applied scale2x filter on current bases.
 - Re-organized sprites.
