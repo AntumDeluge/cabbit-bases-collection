@@ -1,6 +1,8 @@
 Next
 - Renamed bases, bodies, & heads to numerical standard.
 - Moved 48x64 parts to main parts parent directory.
+- Added more body recolors.
+- Create new body type.
 
 0.3
 - Applied scale2x filter on current bases.
