@@ -1,2 +1,1 @@
-- Tough up "tough" bases.
-- Add more recolors of "tough" bases.
+- Create alternate body with shorter legs in center frame.
