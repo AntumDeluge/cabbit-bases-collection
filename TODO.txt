@@ -3,4 +3,3 @@
 - Fix 48x64 ears for alternate/heavy heads.
 - Create more bases from new parts.
 - Create child parts & bases.
-- Fix coloring of elf ears.
