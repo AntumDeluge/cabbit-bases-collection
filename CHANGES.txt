@@ -1,7 +1,7 @@
 Next
-- Renamed bases, bodies, & heads to numerical standard.
+- Renamed bases, bodies, & heads.
 - Moved 48x64 parts to main parts parent directory.
-- Added more body recolors.
+- Added more recolors.
 - Created new body types.
 
 0.3
