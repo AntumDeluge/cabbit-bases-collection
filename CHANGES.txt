@@ -10,6 +10,7 @@ Next
   - eyes-001 to eyes-gray_blue
   - eyes-002 to eyes-pale_brown
   - eyes-003 to eyes-dark_brown
+- Not maintaining base sprite recolors for simplicity's sake.
 
 0.3
 - Applied scale2x filter on current bases.
