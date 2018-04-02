@@ -4,6 +4,12 @@ Next
 - Added more recolors.
 - Created new body types.
 - Created child body.
+- Created eyes-child-teal
+- Created eyes-teal from eyes-child-teal
+- Rename eyes:
+  - eyes-001 to eyes-gray_blue
+  - eyes-002 to eyes-pale_brown
+  - eyes-003 to eyes-dark_brown
 
 0.3
 - Applied scale2x filter on current bases.
