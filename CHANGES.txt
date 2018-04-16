@@ -12,6 +12,7 @@ Next
   - eyes-003 to eyes-dark_brown
 - Not maintaining base sprite recolors for simplicity's sake.
 - Created elderly base sprites & parts.
+- Created dwarf bases sprites.
 
 0.3
 - Applied scale2x filter on current bases.
